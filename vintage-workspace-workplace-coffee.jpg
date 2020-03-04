@@ -1,5 +1,3 @@
-
-git add -p 
-git commit -m "https://www.freepik.com/free-photos-vectors/coffee"
-git push
-
+background-size: cover;
+background-image: url ("vintage-workspace-workplace-coffee.jpg");
+background-position: center;

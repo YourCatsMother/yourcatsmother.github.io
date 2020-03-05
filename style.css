@@ -34,7 +34,7 @@ header {
   padding: 2em;
   text-align: center;
   background-image: url('vintage-workspace-coffee.jpg');
-  background-size: cover;
+  background-size: 450px 300px;
   background-position: center;
   color: white;
 }
